@@ -25,11 +25,11 @@ When I'm not working with data, I enjoy Nature Photography. I love the "aha!" mo
 ## 🔭 What I'm Currently Working On 
 
 - **Walmart Sales Analysis:** Building a sales interactive dashboard in Power BI  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Customer Behavior Analysis:** Using Python and MYSQL for data cleaning and analysis, then building an interactive dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
--  Advanced machine learning techniques in Scikit-learn.
+- Machine learning techniques in Scikit-learn.
 
 ## 🛠️ Technical Skillset
 
